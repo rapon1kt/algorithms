@@ -29,7 +29,7 @@ The references used in this repository are based on the principles taught at the
 
 ##### Links
 
-- 📚[Data Structure and Algorithms Analisys in C - PDF](https://mrajacse.wordpress.com/wp-content/uploads/2012/08/data-structures-and-algorithm-analysis-in-c-mark-allen-weiss.pdf)
+- 📕[Data Structure and Algorithms Analisys in C - PDF](https://mrajacse.wordpress.com/wp-content/uploads/2012/08/data-structures-and-algorithm-analysis-in-c-mark-allen-weiss.pdf)
 - ▶️[MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&ab_channel=MITOpenCourseWare)
 
 ### Author
