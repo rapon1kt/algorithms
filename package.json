@@ -1,0 +1,14 @@
+{
+	"name": "algorithms",
+	"version": "1.0.0",
+	"main": "main.ts",
+	"license": "MIT",
+	"author": "rapon1kt",
+	"description": "Made to study algorithms.",
+	"devDependencies": {
+		"@types/node": "^24.3.1",
+		"ts-node": "^10.9.2",
+		"ts-node-dev": "^2.0.0",
+		"typescript": "^5.9.2"
+	}
+}
