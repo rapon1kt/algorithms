@@ -1,6 +1,6 @@
 ## Algorithms and Data Structures
 
-This repository will contain C and Python examples of many popular algorithms and data structure.
+This repository will contain C and JavaScript examples of many popular algorithms and data structure.
 
 Each algorithm will have its own readme with the explanation of space and time complexity.
 
