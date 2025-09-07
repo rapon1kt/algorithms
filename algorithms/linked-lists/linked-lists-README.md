@@ -1,5 +1,10 @@
 ## Linked List Concepts
 
+##### Example codes:
+
+- **[C Example](https://github.com/rapon1kt/algorithms/blob/master/algorithms/linked-lists/c-example/main.c)**
+- **[Typescript Example](https://github.com/rapon1kt/algorithms/blob/master/algorithms/linked-lists/typescript-example/script.ts)**
+
 #### 🔹 What is a Linked List?
 
 A **linked list** is a linear data structure where elements (called **nodes**) are stored in separate memory locations and connected through **pointers**.  
