@@ -23,6 +23,10 @@ In this repository, there will be discussions about:
 - How to estimate the time required for a program;
 - How to reduce the time to fractions of seconds;
 
+####  List of Algorithms
+
+- [Linked Lists](https://github.com/rapon1kt/algorithms/blob/master/algorithms/linked-lists/linked-lists-README.md) - Concepts and examples
+
 ### References
 
 The references used in this repository are based on the principles taught at the college I attend and on the videos i watched online. Furthermore, I am using as a bibliographic basis the book **Data Structure and Algorithms Analysis in C**, written by **Mark Allen Weiss**, which I strongly recommend to everyone who is starting out in programming.
