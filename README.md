@@ -23,9 +23,9 @@ In this repository, there will be discussions about:
 - How to estimate the time required for a program;
 - How to reduce the time to fractions of seconds;
 
-####  List of Algorithms
+#### List of Data-Structures
 
-- [Linked Lists](https://github.com/rapon1kt/algorithms/blob/master/algorithms/linked-lists/linked-lists-README.md) - Concepts and examples
+- [Linked Lists](https://github.com/rapon1kt/algorithms/blob/master/data-structures/linked-lists/linked-lists-README.md) - Concepts and examples
 
 ### References
 
