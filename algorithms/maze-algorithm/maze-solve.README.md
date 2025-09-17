@@ -16,7 +16,7 @@ The algorithm finds a valid path from `S` to `E`, marking the route inside the m
 #### 🔹 Data Structures Used
 
 - **Matrix (`maze`)**: represents the maze.
-- **Queue (`queue`)**: used to explore maze positions in **[breadth-first order](https://github.com/rapon1kt/algorithms/blob/master/algorithms/breadth-first-order/breath-first-order.README.md)** (BFS – _Breadth-First Search_).
+- **Queue (`queue`)**: used to explore maze positions in **[breadth-first order](https://github.com/rapon1kt/algorithms/blob/master/algorithms/breadth-first-order/breadth-first-order.README.md)** (BFS – _Breadth-First Search_).
 - **Points (`point`)**: each position has coordinates `(x, y)`.
 
 Movement directions are defined by two arrays:
@@ -36,7 +36,7 @@ int dy[] = {1, -1, 0, 0};
 The code scans the matrix to find the cell marked with `E`.  
 That point is inserted into the queue to begin the search.
 
-##### 2. [Breadth-First Search (BFS)](https://github.com/rapon1kt/algorithms/blob/master/algorithms/breadth-first-order/breath-first-order.README.md)
+##### 2. [Breadth-First Search (BFS)](https://github.com/rapon1kt/algorithms/blob/master/algorithms/breadth-first-order/breadth-first-order.README.md)
 
 While the queue is **not empty**:
 
