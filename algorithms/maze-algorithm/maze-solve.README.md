@@ -16,7 +16,7 @@ The algorithm finds a valid path from `S` to `E`, marking the route inside the m
 #### 🔹 Data Structures Used
 
 - **Matrix (`maze`)**: represents the maze.
-- **Queue (`queue`)**: used to explore maze positions in **[breadth-first order](https://github.com/rapon1kt/algorithms/blob/master/algorithms/breadth-first-order)** (BFS – _Breadth-First Search_).
+- **Queue (`queue`)**: used to explore maze positions in **[breadth-first order](https://github.com/rapon1kt/algorithms/blob/master/algorithms/breadth-first-order/breath-first-order.README.md)** (BFS – _Breadth-First Search_).
 - **Points (`point`)**: each position has coordinates `(x, y)`.
 
 Movement directions are defined by two arrays:
