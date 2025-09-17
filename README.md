@@ -26,6 +26,7 @@ In this repository, there will be discussions about:
 #### List of Data-Structures
 
 - [Linked Lists](https://github.com/rapon1kt/algorithms/blob/master/data-structures/linked-lists/linked-lists-README.md) - Concepts and examples
+- [Queue](https://github.com/rapon1kt/algorithms/blob/master/data-structures/queue/queue-README.md) - Concepts, examples and exercise
 
 ### References
 
