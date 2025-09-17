@@ -36,7 +36,7 @@ int dy[] = {1, -1, 0, 0};
 The code scans the matrix to find the cell marked with `E`.  
 That point is inserted into the queue to begin the search.
 
-##### 2. [Breadth-First Search (BFS)](https://github.com/rapon1kt/algorithms/blob/master/algorithms/breadth-first-order)
+##### 2. [Breadth-First Search (BFS)](https://github.com/rapon1kt/algorithms/blob/master/algorithms/breadth-first-order/breath-first-order.README.md)
 
 While the queue is **not empty**:
 
