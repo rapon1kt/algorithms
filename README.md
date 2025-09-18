@@ -14,19 +14,27 @@ In each explanation of exercises, will contain why is better to use certain data
 
 > NOTE: the set here is not linked to the type of structure used in C, but rather a synonym for collection.
 
+#### List of Data-Structures
+
+- [Linked Lists](https://github.com/rapon1kt/algorithms/blob/master/data-structures/linked-lists/linked-lists-README.md) - Concepts and examples
+- [Queue](https://github.com/rapon1kt/algorithms/blob/master/data-structures/queue/queue-README.md) - Concepts, examples and exercise
+- [Stack](https://github.com/rapon1kt/algorithms/blob/master/data-structures/stack/stack-README.md) - Concepts, example and problem
+
 ### Algorithms
 
 An algorithm is a clearly specified set of simple instructions to be followed to solve a problem.
 
 In this repository, there will be discussions about:
 
-- How to estimate the time required for a program;
+- [How to estimate the time](https://github.com/rapon1kt/algorithms/blob/master/algorithms/algorithms-analysis-README.md) required for a program;
 - How to reduce the time to fractions of seconds;
 
-#### List of Data-Structures
+#### List of Algorithms
 
-- [Linked Lists](https://github.com/rapon1kt/algorithms/blob/master/data-structures/linked-lists/linked-lists-README.md) - Concepts and examples
-- [Queue](https://github.com/rapon1kt/algorithms/blob/master/data-structures/queue/queue-README.md) - Concepts, examples and exercise
+Here you will find the algorithms to solve famous problems using the main data structures, such as: Linked List, Stacks, Queue, etc.
+
+- [Maze](https://github.com/rapon1kt/algorithms/blob/master/algorithms/maze-algorithm/maze-solve.README.md)
+- [Match Parentheses](https://github.com/rapon1kt/algorithms/blob/master/algorithms/matching-parentheses/matching-parentheses.README.md)
 
 ### References
 
